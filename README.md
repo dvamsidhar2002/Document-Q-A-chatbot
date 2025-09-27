@@ -21,7 +21,7 @@ The app uses **semantic search** to find relevant text chunks and generates prec
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/dvamsidhar2002/Document-Q-A-chatbot.git
-cd '.\Document Chatbot\'
+cd '.\Streamlit App\'
 ```
 
 ### 2. Install dependencies
