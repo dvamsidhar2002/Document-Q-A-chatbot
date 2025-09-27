@@ -20,8 +20,7 @@ The app uses **semantic search** to find relevant text chunks and generates prec
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/document-qa-chatbot.git
-cd document-qa-chatbot
+git clone https://github.com/dvamsidhar2002/Document-Q-A-chatbot.git
 ```
 
 ### 2. Install dependencies
@@ -84,13 +83,10 @@ In the **sidebar**, you can:
 
 ---
 
-## 🔮 Roadmap
+## 🔮 Future Enhancements
 - [ ] Add vector embeddings for more accurate semantic search.  
 - [ ] Support long-term document storage (SQLite, FAISS, or ChromaDB).  
 - [ ] Add support for highlighting answer sources in text.  
 - [ ] Deployable via Docker for easier setup.  
 
 ---
-
-## 📜 License
-MIT License – feel free to use and modify.  
